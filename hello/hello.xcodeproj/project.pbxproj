@@ -15,6 +15,7 @@
 		C7EB233C1D4A1E2D00E86D38 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7EB233A1D4A1E2D00E86D38 /* LaunchScreen.storyboard */; };
 		C7EB23471D4A1E2D00E86D38 /* helloTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C7EB23461D4A1E2D00E86D38 /* helloTests.m */; };
 		C7EB23521D4A1E2D00E86D38 /* helloUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = C7EB23511D4A1E2D00E86D38 /* helloUITests.m */; };
+		C7EB23611D4A1E9000E86D38 /* ByeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C7EB23601D4A1E9000E86D38 /* ByeViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		C7EB234D1D4A1E2D00E86D38 /* helloUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = helloUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7EB23511D4A1E2D00E86D38 /* helloUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = helloUITests.m; sourceTree = "<group>"; };
 		C7EB23531D4A1E2D00E86D38 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C7EB235F1D4A1E9000E86D38 /* ByeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ByeViewController.h; sourceTree = "<group>"; };
+		C7EB23601D4A1E9000E86D38 /* ByeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ByeViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +107,8 @@
 				C7EB232F1D4A1E2D00E86D38 /* AppDelegate.h */,
 				C7EB23301D4A1E2D00E86D38 /* AppDelegate.m */,
 				C7EB23321D4A1E2D00E86D38 /* ViewController.h */,
+				C7EB235F1D4A1E9000E86D38 /* ByeViewController.h */,
+				C7EB23601D4A1E9000E86D38 /* ByeViewController.m */,
 				C7EB23331D4A1E2D00E86D38 /* ViewController.m */,
 				C7EB23351D4A1E2D00E86D38 /* Main.storyboard */,
 				C7EB23381D4A1E2D00E86D38 /* Assets.xcassets */,
@@ -271,6 +276,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C7EB23341D4A1E2D00E86D38 /* ViewController.m in Sources */,
+				C7EB23611D4A1E9000E86D38 /* ByeViewController.m in Sources */,
 				C7EB23311D4A1E2D00E86D38 /* AppDelegate.m in Sources */,
 				C7EB232E1D4A1E2D00E86D38 /* main.m in Sources */,
 			);
