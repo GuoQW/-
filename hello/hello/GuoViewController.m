@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-    NSLog(@"我也添加了输出语句!");
+    NSLog(@"我也添加了输出语句!ddddddd");
 }
 
 - (void)didReceiveMemoryWarning {
